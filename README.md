@@ -1,4 +1,4 @@
-#  PlagNote
+#  PlagNot
 
 1. [Цели и задачи](https://github.com/theDeMolition/PlagNot/blob/master/%D0%A6%D0%B5%D0%BB%D0%B8%20%D0%B8%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.md)
 
